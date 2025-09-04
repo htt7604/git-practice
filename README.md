@@ -1,4 +1,4 @@
-Update from A 5C
+Update from A
 Update from B
 
 # Đây là README được chỉnh sửa từ nhánh main 5C
